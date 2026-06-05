@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi 👋, I'm Ajay Singh
 
-<!--
-**Ajay8x/Ajay8x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at Vindhya Gurukul College (MGKVP)
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning Java & Data Structures & Algorithms
+
+🚀 Tech Stack
+HTML, CSS, JavaScript
+React.js
+Node.js
+Express.js
+MongoDB
+SQL
+Git & GitHub
+Java
+📌 Featured Projects
+🏠 Wanderlust Travel
+
+Full-stack property rental web application built using Node.js, Express.js, and MongoDB.
+
+🌦️ Weather Web App
+
+Weather application built with React and Material UI using Weather API integration.
+
+🎮 Simon Says Game
+
+Interactive browser game developed using HTML, CSS, and JavaScript.
+
+🎵 Spotify Clone
+
+Responsive music streaming interface inspired by Spotify.
+
+📫 Connect With Me
+Email: ajaysingh8xx@gmail.com
+GitHub: github.com/Ajay8x
+
+⭐ Thanks for visiting my profile!
