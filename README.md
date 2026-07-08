@@ -1,3 +1,10 @@
+<h1 align="center">
+Hi 👋, I'm Ajay Singh
+</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Learner;Open+Source+Enthusiast;Welcome+to+my+GitHub!" />
+</p>
 # 💫 About Me:
 🔭 I’m currently working on Java, Data Structures & Algorithms projects<br><br>👯 I’m looking to collaborate on Open Source Java & Web Development projects<br><br>🤝 I’m looking for help with Spring Boot, System Design & Backend Development<br><br>🌱 I’m currently learning Java, DSA, Spring Boot, Git, GitHub and React<br><br>💬 Ask me about Java, HTML, CSS, JavaScript, Git, GitHub and Basic Programming<br><br>⚡ Fun fact: I solve coding problems daily and love turning ideas into real-world projects.
 
@@ -12,11 +19,19 @@
 ![](https://streak-stats.demolab.com/?user=Ajay8x&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ajay8x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 📈 Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=ajay8x&theme=tokyo-night)
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ajay8x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ajay8x&limit=5&theme=dark&combine_all_yearly_contributions=true)
