@@ -5,8 +5,17 @@ Hi , I'm Ajay Singh
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ajay+Singh;Full+Stack+Developer;Java+Developer;Spring+Boot+%7C+React+Developer;MERN+Stack+Developer;DSA+Learner;Open+Source+Enthusiast;Problem+Solver;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </p>
-# 💫 About Me:
-🔭 I’m currently working on Java, Data Structures & Algorithms projects<br><br>👯 I’m looking to collaborate on Open Source Java & Web Development projects<br><br>🤝 I’m looking for help with Spring Boot, System Design & Backend Development<br><br>🌱 I’m currently learning Java, DSA, Spring Boot, Git, GitHub and React<br><br>💬 Ask me about Java, HTML, CSS, JavaScript, Git, GitHub and Basic Programming<br><br>⚡ Fun fact: I solve coding problems daily and love turning ideas into real-world projects.
+
+<h2 align="center">💫 About Me</h2>
+
+<ul>
+  <li><b>Full Stack Developer</b></li>
+  <li><b>Java & Spring Boot Enthusiast</b></li>
+  <li><b>Learning DSA, React, and Backend Development</b></li>
+  <li><b>Building Real-World Web Applications</b></li>
+  <li><b>Open Source Contributor</b></li>
+  <li><b>Ask me about Java, HTML, CSS, JavaScript, React, and Git</b></li>
+</ul>
 
 
 ## 🌐 Socials:
