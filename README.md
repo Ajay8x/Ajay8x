@@ -3,7 +3,7 @@ Hi , I'm Ajay Singh
 </h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Java+Developer;DSA+Learner;Open+Source+Enthusiast;Welcome+to+my+GitHub!" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full Stack+Developer;DSA+Learner;Open+Source+Enthusiast;Welcome+to+my+GitHub!" />
 </p>
 # 💫 About Me:
 🔭 I’m currently working on Java, Data Structures & Algorithms projects<br><br>👯 I’m looking to collaborate on Open Source Java & Web Development projects<br><br>🤝 I’m looking for help with Spring Boot, System Design & Backend Development<br><br>🌱 I’m currently learning Java, DSA, Spring Boot, Git, GitHub and React<br><br>💬 Ask me about Java, HTML, CSS, JavaScript, Git, GitHub and Basic Programming<br><br>⚡ Fun fact: I solve coding problems daily and love turning ideas into real-world projects.
@@ -74,9 +74,16 @@ Hi , I'm Ajay Singh
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=plastic&logo=render&logoColor=white)
 
+## 📊 GitHub Stats
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Ajay8x&theme=tokyonight&hide_border=true" />
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ajay8x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Ajay8x&theme=tokyonight&hide_border=false)<br/>
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ajay8x&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -88,25 +95,12 @@ Hi , I'm Ajay Singh
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ajay8x&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ajay8x&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay8x&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ajay8x&theme=tokyonight&hide_border=true" />
-</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ajay8x&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
 
 ![](https://komarev.com/ghpvc/?username=Ajay8x&style=for-the-badge&color=blue)
