@@ -6,7 +6,7 @@ Hi , I'm Ajay Singh
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Ajay+Singh;Full+Stack+Developer;Java+Developer;Spring+Boot+%7C+React+Developer;MERN+Stack+Developer;DSA+Learner;Open+Source+Enthusiast;Problem+Solver;Welcome+to+My+GitHub!" alt="Typing SVG" />
 </p>
 
-<h2 align="center">💫 About Me</h2>
+<h2 align="center"> About Me</h2>
 
 <ul>
   <li><b>Full Stack Developer</b></li>
